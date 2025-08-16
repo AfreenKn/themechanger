@@ -1,37 +1,22 @@
-🌙 Theme Changer Navbar
-A simple responsive Navbar with theme toggling functionality (Light / Dark mode) built using React. The theme preference is stored in localStorage so it persists across page reloads.
+# 🌗 Theme Changer  
 
-🔗 Live Demo: Theme Changer
+A simple and interactive **Theme Changer Web App** that allows users to toggle between **Light Mode** and **Dark Mode** using HTML, CSS, and JavaScript.  
 
-✨ Features
-🔄 Light/Dark mode toggle
+🔗 **Live Demo**: [Theme Changer](https://afreenkn.github.io/themechanger/)  
 
-🖼️ Dynamic logo and icons change with theme
+---
 
-🔍 Search box with styled placeholder
+## 🚀 Features
+- 🌞 Light mode / 🌙 Dark mode toggle  
+- ⚡ Fast and responsive design  
+- 🎨 Clean UI with smooth transitions  
+- 🖥️ Works on all modern browsers  
 
-📱 Responsive Navbar layout
+---
 
-💾 Theme persists using localStorage
+## 🛠️ Tech Stack
+- **HTML5** – Structure  
+- **CSS3** – Styling  
+- **JavaScript (Vanilla JS)** – Theme toggle functionality  
 
-🎨 Styled with CSS and theme-based overrides
 
-📂 Project Structure
-pgsql
-Copy
-Edit
-src/
-│── App.jsx
-│── index.css
-│── assets/
-│   ├── logo-black.png
-│   ├── logo-white.png
-│   ├── search-w.png
-│   ├── search-b.png
-│   ├── night.png
-│   └── day.png
-│
-└── Component/
-    └── Navbar/
-        │── Navbar.jsx
-        └── Navbar.css
